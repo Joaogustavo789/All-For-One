@@ -8,20 +8,20 @@ All For One é um projeto que foi utilizado um banco de dados chamado Northwind 
 
 ### Instalação
 #### Primeiro é necessário fazer o clone do repositório para a sua maquina:
-```js
+```bash
 git clone git@github.com:Joaogustavo789/All-For-One.git
 ```
 #### Depois é preciso entrar no repositório clonado:
-```js
+```bash
 cd All-For-One
 ```
 #### Em seguida é necessário fazer a instalação das dependências do projeto:
 - Com Docker:
-```js
+```bash
 docker-compose up -d  // Ele irá rodar dois serviços, um do node e um do db!
 ```
 - Sem Docker:
-```js
+```bash
 npm install // Para isso é necessário ter o node instalado na máquina!
 ```
 
