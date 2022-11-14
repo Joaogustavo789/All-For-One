@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-All For One é um projeto que foi utilizado um banco de dados chamado Northwind no qual foi construído com `MySQL`!
+All For One é um projeto que foi utilizado um banco de dados chamado Northwind no qual ele foi sendo construído com `MySQL`!
 
 ### Instalação
 #### Primeiro é necessário fazer o clone do repositório para a sua maquina:
